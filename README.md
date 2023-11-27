@@ -1,1 +1,1 @@
-# Self-similarity-in-human-brain-connectomes
+# Self similarity in human brain connectomes
