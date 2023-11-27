@@ -7,10 +7,10 @@ This repository contains Fortran programs developed for my Bachelor's Thesis in 
 The human brain is a highly intricate system, characterized by interactions across multiple spatial scales. This project investigates the multiscale organization of human brain connectomes using two datasets from healthy subjects. Two symmetries were identified through the analysis.
 
 1. **Multiscale Properties:** The study examined multiscale properties at five hierarchical resolutions, reaffirming the self-similarity of these properties as the resolution decreases.
-   ![Multiscale Properties](images/multiscale_properties.png)
+   ![Multiscale Properties](multiscale_properties.pdf)
 
 2. **Structural Features:** A quantitative analysis demonstrated that structural features of connectomes remain self-similar when applying a degree-thresholding renormalization method on the highest resolution network layer.
-   ![Structural Features](images/structural_features.png)
+   ![Structural Features](structural_features.pdf)
 
 ## Fortran programs
 
